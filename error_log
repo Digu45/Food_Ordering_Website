@@ -1,0 +1,82 @@
+[20-Sep-2024 06:17:47 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php:14
+Stack trace:
+#0 /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php(14): mysqli_connect('localhost', 'root', '', 'restaurant_db')
+#1 {main}
+  thrown in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php on line 14
+[20-Sep-2024 06:17:48 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php:14
+Stack trace:
+#0 /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php(14): mysqli_connect('localhost', 'root', '', 'restaurant_db')
+#1 {main}
+  thrown in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php on line 14
+[20-Sep-2024 06:17:48 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php:14
+Stack trace:
+#0 /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php(14): mysqli_connect('localhost', 'root', '', 'restaurant_db')
+#1 {main}
+  thrown in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php on line 14
+[20-Sep-2024 06:17:49 UTC] PHP Fatal error:  Uncaught exception 'mysqli_sql_exception' with message 'Access denied for user 'root'@'localhost' (using password: NO)' in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php:14
+Stack trace:
+#0 /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php(14): mysqli_connect('localhost', 'root', '', 'restaurant_db')
+#1 {main}
+  thrown in /home/rnsoftwa/xpresshotelerp.com/order/remove_order.php on line 14
+[20-Sep-2024 06:17:59 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:17:59 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1124
+[20-Sep-2024 06:26:38 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:26:38 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:29:30 UTC] PHP Notice:  Undefined property: mysqli::$
+                                        20213                                     in /home/rnsoftwa/xpresshotelerp.com/order/submit_order.php on line 21
+[20-Sep-2024 06:29:32 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:29:32 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:29:34 UTC] PHP Notice:  Undefined property: mysqli::$
+                                        873904                                     in /home/rnsoftwa/xpresshotelerp.com/order/submit_order.php on line 21
+[20-Sep-2024 06:29:54 UTC] PHP Notice:  Undefined property: mysqli::$                                        873904                                     in /home/rnsoftwa/xpresshotelerp.com/order/submit_order.php on line 21
+[20-Sep-2024 06:35:06 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:35:06 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:37:05 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:37:05 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:39:53 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:39:53 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:39:56 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:39:56 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:40:49 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:40:49 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:41:31 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:41:31 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:43:34 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:43:34 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:45:10 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:45:10 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:45:39 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:45:39 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:47:15 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:47:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:47:19 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:47:19 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:49:37 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 06:49:37 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 06:49:38 UTC] PHP Notice:  Undefined index: MenuId in /home/rnsoftwa/xpresshotelerp.com/order/vegapi.php on line 256
+[20-Sep-2024 07:07:28 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 07:07:28 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 07:10:28 UTC] PHP Notice:  Undefined index: parameter in /home/rnsoftwa/xpresshotelerp.com/order/index.php on line 166
+[20-Sep-2024 07:10:43 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 07:10:43 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
+[20-Sep-2024 07:11:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/rnsoftwa/xpresshotelerp.com/order/place_order.php on line 27
+[20-Sep-2024 07:12:20 UTC] PHP Notice:  Undefined index: category in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 563
+[20-Sep-2024 07:12:20 UTC] PHP Notice:  A session had already been started - ignoring session_start() in /home/rnsoftwa/xpresshotelerp.com/order/home.php on line 1125
