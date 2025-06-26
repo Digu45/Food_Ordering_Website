@@ -1,0 +1,1 @@
+// to run the project Use http://localhost/FoodOrdering/splash.php?parameter=QUxnWDFSNWVscHdJYTJXZzBjTmFyZz09 
