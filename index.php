@@ -197,8 +197,8 @@ session_start();
             // API integration for sending OTP
             $Authkey = '359180AQrwQK5INrDt607e889fP1';
             $customer_phone = '91' . $mobile;
-            $ebill_msg = "Dear User, Welcome to the Digus Restaurant. Use below OTP No. $otp to verify your mobile number - Vision by Digus Restaurant";
-            $SenderId = "DIGUSR";
+            $ebill_msg = "Dear User, Welcome to the Xpress Hotel. Use below OTP No. $otp to verify your mobile number - Vision by XPRESSHOTELERP";
+            $SenderId = "RNSERP";
             $route = 4;
             $country_code = 91;
             $TemplateId = '1207169703350434137';
