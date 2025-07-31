@@ -470,10 +470,10 @@ session_start();
             </button>
         </div>
 
-        <div class="text-center mt-3" style="font-size: 1.5rem; font-weight: bold;">
+        <!-- <div class="text-center mt-3" style="font-size: 1.5rem; font-weight: bold;">
             Table:
             <?php echo ($hotel['table_name']); ?>
-        </div>
+        </div> -->
 
 
 
